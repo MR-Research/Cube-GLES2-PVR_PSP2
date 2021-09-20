@@ -1,0 +1,1 @@
+/usr/local/vitasdk/bin/arm-vita-eabi-g++  -Wl,-q -Wall -std=c++11 -Wl,-z,nocopyreloc CMakeFiles/Cube-GLES2-PVR_PSP2.dir/src/main.cpp.obj -o Cube-GLES2-PVR_PSP2   -L/home/mrrobot/repos/Cube-GLES2-PVR_PSP2/cmake_build  -lSceCtrl_stub -lSceDisplay_stub -llibIMGEGL_stub_weak -llibgpu_es4_ext_stub_weak -llibGLESv2_stub_weak -lm 

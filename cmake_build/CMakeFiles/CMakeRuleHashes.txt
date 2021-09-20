@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+17a8d07594803a3a78774658f0f9be19 CMakeFiles/Cube-GLES2-PVR_PSP2.self
+2452120fd6945e424d044185009caed5 CMakeFiles/Cube-GLES2-PVR_PSP2.vpk
+febdf760e3b36bd476a3a719a7fcec32 Cube-GLES2-PVR_PSP2.self.out
+5cf5bc7c332d1c085791d5a2abe41ae5 Cube-GLES2-PVR_PSP2.velf
+7bf1ca42a960fc3c4273174d802601ca Cube-GLES2-PVR_PSP2.vpk.out
+06cba05ed1b85eff157113c56fe9fd14 Cube-GLES2-PVR_PSP2.vpk_param.sfo
