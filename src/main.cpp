@@ -174,7 +174,7 @@ static const GLfloat colors[] =
     0.52734375f,0.76171875f,0.92578125f,1.0f
 };
 
-/* Define our CG shader here. They will be compiled at runtime */
+/* Define our GLSL shader here. They will be compiled at runtime */
 const GLchar vShaderStr[] =
 // Vertex Shader
         "precision mediump float;\n"
